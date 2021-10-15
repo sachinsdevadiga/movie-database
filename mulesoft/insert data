@@ -1,0 +1,8 @@
+
+INSERT INTO `movie` (`moviesname`, `lead actor`, `actress`, `year`, `director`) VALUES
+('kotogobba 3\r\n', 'kichcha sudeep', 'ashika ranganath', '2021', 'shiva karthik'),
+('doctor', 'shivakarthikeyan', 'priyanka mohan', '2021', 'nelson'),
+('salaga', 'vijay', 'sanjana', '2021', 'vijay'),
+('master', 'thalapathy vijay', 'malavika mohanan', '2021', 'lokesh kanagaraj'),
+('kgf', 'yash', 'srinidhi', '2018', 'prashanth neel');
+COMMIT;
